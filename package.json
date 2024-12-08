@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-security-audit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^11.0.3",
+    "web3": "^1.0.0-beta.55"
+  }
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Security Audit Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Smart Contract Security Audit Tool</h1>
+        <input type="file" id="contractFile" accept=".sol" />
+        <button onclick="submitContract()">Audit Smart Contract</button>
+
+        <div id="auditResults" class="audit-results">
+            <h2>Audit Results</h2>
+            <p id="vulnerabilityResults"></p>
+            <p id="gasCostResults"></p>
+        </div>
+    </div>
+
+    <script src="web3.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
