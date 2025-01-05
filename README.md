@@ -1,4 +1,4 @@
-- **Company**: CODETECH IT SOLUTIONS
+- **Company**: CODTECH IT SOLUTIONS
 - **Name**: Lisha Angral
 - **Intern ID**: CT08DS431
 - **Domain**: Cybersecurity and Ethical Hacking
