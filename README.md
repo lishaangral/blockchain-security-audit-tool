@@ -1,3 +1,12 @@
+- **Company**: CODETECH IT SOLUTIONS
+- **Name**: Lisha Angral
+- **Intern ID**: CT08DS431
+- **Domain**: Cybersecurity and Ethical Hacking
+- **Batch Duration**: 5th Dec 2024 to 5th Jan 2025
+- **Mentor Name**: Neela Santosh
+
+--- 
+
 # Blockchain Security Audit Tool
 
 This repository contains a Blockchain Security Audit Tool designed to assist developers and auditors in evaluating the security of blockchain-based applications. The tool provides automated checks to identify common vulnerabilities and weaknesses in smart contracts and blockchain networks.
